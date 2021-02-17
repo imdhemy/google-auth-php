@@ -1,5 +1,5 @@
 {
-  "name": "google/auth",
+  "name": "imdhemy/google-auth-php",
   "type": "library",
   "description": "Google Auth Library for PHP",
   "keywords": [
